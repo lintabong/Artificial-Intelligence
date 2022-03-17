@@ -9,7 +9,7 @@ a set of codes about artificial intelligence that I developed using matlab, pyth
 =====
 
 ### 2. [Human Action Recognition using ML](https://github.com/lintabong/Artificial-Intelligence/tree/main/Human-Action-Recognition)
-<p>First, I create 100 random nodes between points (0,0) to (50,50) and (50,50) to points (100,100). Then bring up the dot in the middle of the axis, and look for the k-number of distances closest to that point.</p> 
+<p>The goal is to disslanthe the action on people's images using machine learning python with opencv and mediapipe. Dataset sampling is done by sampling photos using webcams and taken skeleton images.</p> 
 
 ![img](https://github.com/lintabong/Artificial-Intelligence/blob/main/Human-Action-Recognition/sampling_MP.png)
 =====
