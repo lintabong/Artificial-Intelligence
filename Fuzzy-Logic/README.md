@@ -1,3 +1,3 @@
 # Fuzzy Logic
 
-this code will ask u for input (x y z)
+a simple fuzzy logic code that with 3 input (x y z)
