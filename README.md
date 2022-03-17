@@ -1,3 +1,3 @@
 # Artificial Intelligence
 
-a set of codes about artificial intelligence that I developed using matlab and python
+a set of codes about artificial intelligence that I developed using matlab, python, and Google Collab
