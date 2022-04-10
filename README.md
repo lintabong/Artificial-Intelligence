@@ -14,7 +14,7 @@ a set of codes about artificial intelligence that I developed using matlab, pyth
 ![img](https://github.com/lintabong/Artificial-Intelligence/blob/main/Human-Action-Recognition/sampling_MP.png)
 =====
 
-### 3. [Simulated Annealing on Transfer Salesman Problem](https://github.com/lintabong/Artificial-Intelligence/tree/main/Human-Action-Recognition)
+### 3. [Simulated Annealing on Transfer Salesman Problem](https://github.com/lintabong/Artificial-Intelligence/tree/main/Simulated-Annealing-on-TSP)
 <p>TSP (Traveling Salesman Problem) is a problem where a salesman must Visit all the cities where each city is only visited once, and he must start from and return to the city as long as. The goal is to determine the route with the total distance or the minimum cost..</p> 
 
 ![img](https://github.com/lintabong/Artificial-Intelligence/blob/main/Simulated-Annealing-on-TSP/SA.png)
