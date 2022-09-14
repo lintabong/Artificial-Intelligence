@@ -2,11 +2,10 @@ xInput = input('input x = ')
 yInput = input('input y= ')
 zInput = input('input z = ')
 
-x = int(xInput) # pertemanan x
-y = int(yInput) # karma y
-z = int(zInput) # waktu z
+x = int(xInput)
+y = int(yInput)
+z = int(zInput)
 
-#deklarasi variabel sebagai float (angka yang ada komanya)
 x1 = float()
 x2 = float()
 x3 = float()
