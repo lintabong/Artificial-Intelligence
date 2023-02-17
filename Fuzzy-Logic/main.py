@@ -138,6 +138,7 @@ fungsiEndTiga(x3, y3,z1)
 fungsiEndTiga(x3, y3,z2)
 fungsiEndTiga(x3, y3,z3) #R27
 
+
 print(end)
 print(len(end))
 
